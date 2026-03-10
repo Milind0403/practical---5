@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>My Resume</title>
+</head>
+
+<body>
+
+    <!-- Header Section -->
+    <h1>My Resume</h1>
+
+    <!-- Image -->
+    <img src="profile.jpg" alt="Profile Photo" width="150" height="150">
+
+    <h2>Personal Information</h2>
+    <p><b>Name:</b> Milind Sayre</p>
+    <p><b>Email:</b> <a href="mailto:milindsayre@email.com">milindsayre@email.com</a></p>
+    <p><b>LinkedIn:</b> 
+        <a href="https://www.linkedin.com" target="_blank">
+            Visit My LinkedIn
+        </a>
+    </p>
+
+    <!-- Career Objective -->
+    <h2>Career Objective</h2>
+    <p>
+        To obtain a challenging position in a reputable organization
+        where I can utilize my skills and grow professionally.
+    </p>
+
+    <!-- Skills List -->
+    <h2>Skills</h2>
+    <ul>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>JavaScript</li>
+        <li>Python</li>
+    </ul>
+
+    <!-- Hobbies List -->
+    <h2>Hobbies</h2>
+    <ol>
+        <li>Reading</li>
+        <li>Coding</li>
+        <li>Photography</li>
+    </ol>
+
+    <!-- Education Table -->
+    <h2>Education</h2>
+    <table border="1" cellpadding="5">
+        <tr>
+            <th>Year</th>
+            <th>Qualification</th>
+            <th>Institution</th>
+        </tr>
+
+        <tr>
+            <td>2024</td>
+            <td>Bachelor of Computer Science</td>
+            <td>ABC University</td>
+        </tr>
+
+        <tr>
+            <td>2021</td>
+            <td>Higher Secondary</td>
+            <td>XYZ College</td>
+        </tr>
+
+        <tr>
+            <td>2019</td>
+            <td>Secondary School</td>
+            <td>City High School</td>
+        </tr>
+    </table>
+
+    <!-- Project Link -->
+    <h2>Projects</h2>
+    <p>
+        View my projects here:
+        <a href="https://github.com" target="_blank">
+            My GitHub
+        </a>
+    </p>
+
+</body>
+</html>
